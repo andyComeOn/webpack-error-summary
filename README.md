@@ -24,3 +24,5 @@
 
 问题是：
 执行webpack app/main.js public/bundle.js ,一直报错。
+
+this is solve way:
