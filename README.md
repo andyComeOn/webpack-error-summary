@@ -25,4 +25,5 @@
 问题是：
 执行webpack app/main.js public/bundle.js ,一直报错。
 
-this is solve way:
+this is solve way:win7 一直报错说找不到路径，用cmd模式进入到你的项目的根目录下，运行webpack app/main.js public/bundle.js可解决问题，
+但是在git shell 下直接webpack app/main.js public/bundle.js就是error!!
